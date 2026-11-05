@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# binaries
+*.o
+helloworld
+__pycache__/
+*.pyc
